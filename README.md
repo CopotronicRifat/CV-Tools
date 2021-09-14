@@ -5,3 +5,4 @@
 3. Drive to web - https://drv.tw/
 4. Visualization of deep zoom image via OpenSeaDragon - https://stackoverflow.com/questions/16451256/how-do-i-get-started-using-openseadragon/16452141#16452141
 5. LIBVIPS - https://libvips.github.io/libvips/API/current/Making-image-pyramids.md.html 
+6. Extend Colab RAM - https://towardsdatascience.com/upgrade-your-memory-on-google-colab-for-free-1b8b18e8791d
